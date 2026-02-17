@@ -38,4 +38,6 @@ flutter:
 
   # Registering the assets folder so your app can see the image
   assets:
+
     - assets/images/
+    - assets/screenshots/
