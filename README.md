@@ -28,18 +28,14 @@ A modern, real-time mobile messaging application developed as a collaborative gr
 - User Authentication: Secure login and registration using Firebase Authentication.
 - Real-time Chat: Instant messaging via Cloud Firestore.
 - Custom Branding: Adaptive Android launcher icons with a custom Light Blue (#027DFD) theme.
-- Push Notifications: Integrated Firebase Messaging for background alerts.
 - Organized Assets: Centralized management for images, logos, and screenshots.
 
 ##
 📱 App Screenshots
   
-  ![Login](assets/screenshots/login.jpeg)
-  ![Users](assets/screenshots/contact.jpeg)
-  ![Chat](assets/screenshots/chat.jpeg)
-  ![Messaging](assets/screenshots/start_ conversation.jpeg)
-  ![Conversation](assets/screenshots/new_conversation.jpeg)
-  ![Register](assets/screenshots/register_page.jpeg)
+![Login](assets/screenshots/login.jpeg)   ![Users](assets/screenshots/contact.jpeg)
+  ![Chat](assets/screenshots/chat.jpeg)   ![Messaging](assets/screenshots/start_conversation.jpeg)
+  ![Register](assets/screenshots/register_page.jpeg)  ![Conversation](assets/screenshots/new_conversation.jpeg)
   ![Notification](assets/screenshots/notification.jpeg)
 
 
@@ -59,6 +55,7 @@ o	Verify lib/firebase_options.dart is correctly generated.
 4.	Run Application:
 Bash
 flutter run
+
 
 
 
