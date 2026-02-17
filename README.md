@@ -34,13 +34,14 @@ A modern, real-time mobile messaging application developed as a collaborative gr
 📱 App Screenshots
   <details>
      <summary> Click here to view all screenshots</summary>
-      ![Login](assets/screenshots/login.jpeg) 
-      ![Users](assets/screenshots/contact.jpeg)
-      ![Chat](assets/screenshots/chat.jpeg)
-      ![Messaging](assets/screenshots/start_conversation.jpeg)
-      ![Register](assets/screenshots/register_page.jpeg)
-      ![Conversation](assets/screenshots/new_conversation.jpeg)
-      ![Notification](assets/screenshots/notification.jpeg)
+    
+  ![Login](assets/screenshots/login.jpeg). 
+  ![Users](assets/screenshots/contact.jpeg)
+  ![Chat](assets/screenshots/chat.jpeg)
+  ![Messaging](assets/screenshots/start_conversation.jpeg)
+  ![Register](assets/screenshots/register_page.jpeg)
+  ![Conversation](assets/screenshots/new_conversation.jpeg)
+  ![Notification](assets/screenshots/notification.jpeg).
   </details>
 
 
@@ -60,6 +61,7 @@ o	Verify lib/firebase_options.dart is correctly generated.
 4.	Run Application:
 Bash
 flutter run
+
 
 
 
