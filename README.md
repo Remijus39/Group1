@@ -1,19 +1,19 @@
-💬 Chat App (Flutter)
+**💬 Chat App (Flutter)**
 A modern, real-time mobile messaging application developed as a collaborative group project. This app leverages the power of Flutter for a beautiful cross-platform UI and Firebase for a robust, scalable backend.
 
-👥 Team Members & Roles
+##👥 Team Members & Roles
 This project was successfully completed by a 10-member team from NIT (BCS/2023).
-Name	Registration Number
-Remijus Mpiluka	NIT/BCS/2023/604
-Salma Kasoma	NIT/BCS/2023/503
-Yonah Mathias	NIT/BCS/2023/580
-Aron Augustine	NIT/BCS/2023/529
-Mark Roden	NIT/BCS/2023/505
-Ovino Stanslaus	NIT/BCS/2023/575
-Geofrey Michael	NIT/BCS/2023/527
-Saleh Alfan	NIT/BCS/2023/488
-Ibrahim Hamis	NIT/BCS/2023/512
-Thadeo Gabriel	NIT/BCS/2023/611
+**Name**	**Registration Number**
+**Remijus Mpiluka	NIT/BCS/2023/604**
+**Salma Kasoma	NIT/BCS/2023/503**
+**Yonah Mathias	NIT/BCS/2023/580**
+**Aron Augustine	NIT/BCS/2023/529**
+**Mark Roden	NIT/BCS/2023/505**
+**Ovino Stanslaus	NIT/BCS/2023/575**
+**Geofrey Michael	NIT/BCS/2023/527**
+**Saleh Alfan	NIT/BCS/2023/488**
+**Ibrahim Hamis	NIT/BCS/2023/512**
+**Thadeo Gabriel	NIT/BCS/2023/611**
 
 📝 Project Description
 The Chat App is a Flutter-based mobile application that allows users to communicate in real-time. It focuses on security, speed, and a user-friendly experience. Key highlights include:
@@ -82,5 +82,6 @@ o	Verify lib/firebase_options.dart is correctly generated.
 4.	Run Application:
 Bash
 flutter run
+
 
 
