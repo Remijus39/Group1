@@ -21,8 +21,6 @@ This project demonstrates teamwork with 10 members, each contributing to differe
 ## Features
 - **User Authentication**: Secure login and registration using Firebase Authentication.  
 - **Real-time Chat**: Users can send and receive messages instantly via Firestore.  
-- **Push Notifications**: Notifications alert users of new messages.  
-- **User Profile Management**: Users can view and update their profile information.  
 - **Organized Assets & Images**: Includes app logos, backgrounds, and icons.  
 - **Responsive & Consistent UI**: All screens are designed for a smooth user experience.  
 - **Documentation & Testing**: Fully tested features and clear project documentation.
