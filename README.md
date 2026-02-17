@@ -1,9 +1,10 @@
 **💬 Chat App (Flutter)**
 A modern, real-time mobile messaging application developed as a collaborative group project. This app leverages the power of Flutter for a beautiful cross-platform UI and Firebase for a robust, scalable backend.
 
-###👥 Team Members & Roles
-This project was successfully completed by a 10-member team from NIT (BCS/2023).
-**Name**	**Registration Number**
+###
+👥 Team Members & Roles
+**This project was successfully completed by a 10-member team from NIT (BCS/2023).**
+- **Name**	- **Registration Number**
 - **Remijus Mpiluka	NIT/BCS/2023/604**
 - **Salma Kasoma	NIT/BCS/2023/503**
 - **Yonah Mathias	NIT/BCS/2023/580**
@@ -15,11 +16,14 @@ This project was successfully completed by a 10-member team from NIT (BCS/2023).
 - **Ibrahim Hamis	NIT/BCS/2023/512**
 - **Thadeo Gabriel	NIT/BCS/2023/611**
 
+###
 📝 Project Description
-The Chat App is a Flutter-based mobile application that allows users to communicate in real-time. It focuses on security, speed, and a user-friendly experience. Key highlights include:
-•	Secure Infrastructure: Utilizes Firebase for managed authentication and database security.
-•	Real-time Synchronization: Messages update instantly across all devices without refreshing.
-•	Team Collaboration: Demonstrates effective GitHub workflow and modular coding practices within a large group.
+**The Chat App is a Flutter-based mobile application that allows users to communicate in real-time. It focuses on security, speed, and a user-friendly experience. Key highlights include:**
+- Secure Infrastructure: Utilizes Firebase for managed authentication and database security.
+- Real-time Synchronization: Messages update instantly across all devices without refreshing.
+- Team Collaboration: Demonstrates effective GitHub workflow and modular coding practices within a large group.
+
+###
 ✨ Features
 •	User Authentication: Secure login and registration using Firebase Authentication.
 •	Real-time Chat: Instant messaging via Cloud Firestore.
@@ -82,6 +86,7 @@ o	Verify lib/firebase_options.dart is correctly generated.
 4.	Run Application:
 Bash
 flutter run
+
 
 
 
